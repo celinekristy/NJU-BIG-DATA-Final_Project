@@ -1,0 +1,26 @@
+# Build output
+target/
+classes/
+*.class
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+
+# Large / regenerable data — see README for how to rebuild these
+data/
+clean_edges.tsv
+persons.txt
+person_features.tsv
+
+# Full-size Spark output dumps (only curated samples are tracked under results/)
+part-*
+_SUCCESS
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
