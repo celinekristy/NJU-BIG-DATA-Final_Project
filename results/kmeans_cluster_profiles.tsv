@@ -1,0 +1,8 @@
+k	cluster	label	people	recvCount	outDegree	inDegree	nightRatio	sendRecvRatio	activeMonths	avgSentPerMonth
+4	1	pure_receivers	72323	18	0.19	2.68	0.00	0.01	0.07	0.28
+4	0	daytime_active	13139	48	13	5	0.03	0.84	2.1	23
+4	3	night_active	2303	75	9	6	0.84	0.69	1.9	20
+4	2	core_hubs	777	1954	193	115	0.15	0.45	12.6	319
+3	1	pure_receivers	72933	18	0.19	2.68	0.00	0.01	0.07	0.28
+3	0	active	14856	55	13	5	0.16	0.83	2.1	23
+3	2	core_hubs	753	1977	198	117	0.15	0.46	12.7	329
